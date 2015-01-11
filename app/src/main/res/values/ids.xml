@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="About_Layout">false</item>
+    <item type="id" name="LinearLayout01">false</item>
+    <item type="id" name="About_Icon">false</item>
+    <item type="id" name="About_Title">false</item>
+    <item type="id" name="About_Company">false</item>
+    <item type="id" name="About_Blank">false</item>
+    <item type="id" name="AdLayout">false</item>
+    <item type="id" name="adview">false</item>
+    <item type="id" name="preview">false</item>
+    <item type="id" name="widget">false</item>
+    <item type="id" name="time">false</item>
+    <item type="id" name="apm">false</item>
+    <item type="id" name="date">false</item>
+</resources>

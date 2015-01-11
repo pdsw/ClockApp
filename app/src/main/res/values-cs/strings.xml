@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digitální Hodiny Widgety</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. Klikněte dlouze na plochu
+
+2. Klikněte na \"Widgety\"
+
+3. Klikněte na \"Digitální Hodiny\""</string>
+    <string name="app_name_large">Digitální Hodiny (1 x 4)</string>
+    <string name="app_name_small">Digitální Hodiny (1 x 2)</string>
+    <string name="Sunday">Neděle</string>
+    <string name="Monday">Pondělí</string>
+    <string name="Tuesday">Úterý</string>
+    <string name="Wednesday">Středa</string>
+    <string name="Thursday">Čtvrtek</string>
+    <string name="Friday">Pátek</string>
+    <string name="Saturday">Sobota</string>
+    <string name="Sunday_short">Neděle</string>
+    <string name="Monday_short">Pondělí</string>
+    <string name="Tuesday_short">Úterý</string>
+    <string name="Wednesday_short">Středa</string>
+    <string name="Thursday_short">Čtvrtek</string>
+    <string name="Friday_short">Pátek</string>
+    <string name="Saturday_short">Sobota</string>
+    <string name="January">Leden</string>
+    <string name="February">Únor</string>
+    <string name="March">Březen</string>
+    <string name="April">Duben</string>
+    <string name="May">Květen</string>
+    <string name="June">Červen</string>
+    <string name="July">Červenec</string>
+    <string name="August">Srpen</string>
+    <string name="September">Září</string>
+    <string name="October">Říjen</string>
+    <string name="November">Listopad</string>
+    <string name="December">Prosinec</string>
+</resources>

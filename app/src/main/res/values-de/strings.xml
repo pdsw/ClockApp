@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digitaluhr Widget</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. Klicke lang auf eine freie Stelle des Homescreens
+
+2. Klicke auf \"Widgets\"
+
+3. Klicke auf \"Digitaluhr\""</string>
+    <string name="app_name_large">Digitaluhr (1 x 4)</string>
+    <string name="app_name_small">Digitaluhr (1 x 2)</string>
+    <string name="Sunday">Sonntag</string>
+    <string name="Monday">Montag</string>
+    <string name="Tuesday">Dienstag</string>
+    <string name="Wednesday">Mittwoch</string>
+    <string name="Thursday">Donnerstag</string>
+    <string name="Friday">Freitag</string>
+    <string name="Saturday">Samstag</string>
+    <string name="Sunday_short">Son</string>
+    <string name="Monday_short">Mon</string>
+    <string name="Tuesday_short">Dien</string>
+    <string name="Wednesday_short">Mitt</string>
+    <string name="Thursday_short">Donner</string>
+    <string name="Friday_short">Frei</string>
+    <string name="Saturday_short">Sam</string>
+    <string name="January">Januar</string>
+    <string name="February">Februar</string>
+    <string name="March">März</string>
+    <string name="April">April</string>
+    <string name="May">Mai</string>
+    <string name="June">Juni</string>
+    <string name="July">Juli</string>
+    <string name="August">August</string>
+    <string name="September">September</string>
+    <string name="October">Oktober</string>
+    <string name="November">November</string>
+    <string name="December">Dezember</string>
+</resources>

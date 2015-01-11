@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. Long click the home screen
+
+2. Select \"Widgets\"
+
+3. Select \"Digital Clock Widget\""</string>
+    <string name="app_name_large">Digital Clock (1 x 4)</string>
+    <string name="app_name_small">Digital Clock (1 x 2)</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="Sunday_short">Sun</string>
+    <string name="Monday_short">Mon</string>
+    <string name="Tuesday_short">Tue</string>
+    <string name="Wednesday_short">Wed</string>
+    <string name="Thursday_short">Thur</string>
+    <string name="Friday_short">Fri</string>
+    <string name="Saturday_short">Sat</string>
+    <string name="January">January</string>
+    <string name="February">February</string>
+    <string name="March">March</string>
+    <string name="April">April</string>
+    <string name="May">May</string>
+    <string name="June">June</string>
+    <string name="July">July</string>
+    <string name="August">August</string>
+    <string name="September">September</string>
+    <string name="October">October</string>
+    <string name="November">November</string>
+    <string name="December">December</string>
+    <string name="ChangeTitle">Read me</string>
+    <string name="ChangeSummary">"-PLEASE RELAUNCH THE WIDGET AFTER UPDATING FROM MARKET
+
+- PLEASE EXCLUDE THE WIDGET FROM ANY TASK KILLER
+
+Thanks for choosing our product!"</string>
+    <string name="FeedbackTitle">"Developer's feedback"</string>
+    <string name="FeedbackSummary">"You must relaunch the clock after the update.
+
+If the clock freezes, drag it to the trash and relaunch it. 
+
+Thanks for using our product!"</string>
+</resources>

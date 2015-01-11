@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orologio Digitale</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. Premere a lungo sulla schermata Home
+
+2. Premere su \"Widget\"
+
+3. Premere su \"Orologio Digitale\""</string>
+    <string name="app_name_large">Orologio Digitale (1 x 4)</string>
+    <string name="app_name_small">Orologio Digitale (1 x 2)</string>
+    <string name="Sunday">Domenica</string>
+    <string name="Monday">Lunedì</string>
+    <string name="Tuesday">Martedì</string>
+    <string name="Wednesday">Mercoledì</string>
+    <string name="Thursday">Giovedì</string>
+    <string name="Friday">Venerdì</string>
+    <string name="Saturday">Sabato</string>
+    <string name="Sunday_short">Dom</string>
+    <string name="Monday_short">Lun</string>
+    <string name="Tuesday_short">Mar</string>
+    <string name="Wednesday_short">Mer</string>
+    <string name="Thursday_short">Gio</string>
+    <string name="Friday_short">Ven</string>
+    <string name="Saturday_short">Sab</string>
+    <string name="January">Gennaio</string>
+    <string name="February">Febbraio</string>
+    <string name="March">Marzo</string>
+    <string name="April">Aprile</string>
+    <string name="May">Maggio</string>
+    <string name="June">Giugno</string>
+    <string name="July">Luglio</string>
+    <string name="August">Agosto</string>
+    <string name="September">Settembre</string>
+    <string name="October">Ottobre</string>
+    <string name="November">Novembre</string>
+    <string name="December">Dicembre</string>
+    <string name="ChangeTitle">Change Log</string>
+    <string name="ChangeSummary">"- supports HERO now!!
+
+Sorry for the inconvenience"</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">Настроить виджет</string>
+    <string name="rules">"1. Долгое нажатие на пустом месте рабочего стола
+
+2. Выберите категорию \"Виджеты\"
+
+3. Затем \"Digital Clock Widget\" нужного размера"</string>
+    <string name="app_name_large">Digital Clock (1 x 4)</string>
+    <string name="app_name_small">Digital Clock (1 x 2)</string>
+    <string name="Sunday">Воскресенье</string>
+    <string name="Monday">Понедельник</string>
+    <string name="Tuesday">Вторник</string>
+    <string name="Wednesday">Среда</string>
+    <string name="Thursday">Четверг</string>
+    <string name="Friday">Пятница</string>
+    <string name="Saturday">Суббота</string>
+    <string name="Sunday_short">Вс</string>
+    <string name="Monday_short">Пн</string>
+    <string name="Tuesday_short">Вт</string>
+    <string name="Wednesday_short">Ср</string>
+    <string name="Thursday_short">Чт</string>
+    <string name="Friday_short">Пт</string>
+    <string name="Saturday_short">Сб</string>
+    <string name="January">Январь</string>
+    <string name="February">Февраль</string>
+    <string name="March">Март</string>
+    <string name="April">Апрель</string>
+    <string name="May">Май</string>
+    <string name="June">Июнь</string>
+    <string name="July">Июль</string>
+    <string name="August">Август</string>
+    <string name="September">Сентябрь</string>
+    <string name="October">Октябрь</string>
+    <string name="November">Ноябрь</string>
+    <string name="December">Декабрь</string>
+    <string name="ChangeTitle">Помощь</string>
+    <string name="ChangeSummary">"- ПОЖАЛУЙСТА ПЕРЕЗАПУСТИТЕ ВИДЖЕТ ПОСЛЕ ОБНОВЛЕНИЯ ИЗ МАРКЕТА
+
+- ПОЖАЛУЙСТА ДОБАВЬТЕ ПРИЛОЖЕНИЯ В ИСКЛЮЧЕНИЯ ЛЮБОГО ДИСПЕТЧЕРА ЗАДАЧ
+
+Спасибо за выбор наших продуктов!"</string>
+    <string name="FeedbackTitle">Обратная связь</string>
+    <string name="FeedbackSummary">"Необходимо перезапустить часы после обновления программы.
+
+Если время не идет, удалите и добавьте виджет снова на рабочий стол.
+
+Спасибо за выбор наших продуктов!"</string>
+</resources>

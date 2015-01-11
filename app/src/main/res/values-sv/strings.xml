@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">Ta mig hit</string>
+    <string name="rules">"1. Håll in fingret på hemskärmen
+
+2. Välj \"Widgets\"
+
+3. Välj \"Digital Clock Widget\""</string>
+    <string name="app_name_large">Digital Clock (1 x 4)</string>
+    <string name="app_name_small">Digital Clock (1 x 2)</string>
+    <string name="Sunday">Söndag</string>
+    <string name="Monday">Måndag</string>
+    <string name="Tuesday">Tisdag</string>
+    <string name="Wednesday">Onsdag</string>
+    <string name="Thursday">Torsdag</string>
+    <string name="Friday">Fredag</string>
+    <string name="Saturday">Lördag</string>
+    <string name="Sunday_short">Sön</string>
+    <string name="Monday_short">Mån</string>
+    <string name="Tuesday_short">Tis</string>
+    <string name="Wednesday_short">Ons</string>
+    <string name="Thursday_short">Tors</string>
+    <string name="Friday_short">Fre</string>
+    <string name="Saturday_short">Lör</string>
+    <string name="January">Januari</string>
+    <string name="February">Februari</string>
+    <string name="March">Mars</string>
+    <string name="April">April</string>
+    <string name="May">Maj</string>
+    <string name="June">Juni</string>
+    <string name="July">Juli</string>
+    <string name="August">Augusti</string>
+    <string name="September">September</string>
+    <string name="October">Oktober</string>
+    <string name="November">November</string>
+    <string name="December">December</string>
+    <string name="ChangeTitle">Läs mig</string>
+    <string name="ChangeSummary">"-Vänligen ta bort och lägg till widgeten efter uppdatering
+
+- Vänligen ta bort widgeten ifrån alla taskkillers
+ack för att du väljer våran produkt!"</string>
+    <string name="FeedbackTitle">Ge feedback till utvecklaren</string>
+    <string name="FeedbackSummary">"Du behöver ta bort och lägg till widgeten efter uppdatering.
+
+Om klockan fryser, dra den till papperskorgen och lägg till den på nytt. 
+
+Tack för att du väljer våran produkt!"</string>
+</resources>

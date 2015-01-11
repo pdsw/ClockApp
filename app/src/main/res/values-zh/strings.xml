@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. 長按主畫面
+
+2. 然後按 \"Widgets\"
+
+3. 然後按 \"Digital Clock\""</string>
+    <string name="app_name_large">Digital Clock (1 x 4)</string>
+    <string name="app_name_small">Digital Clock (1 x 2)</string>
+    <string name="Sunday">星期日</string>
+    <string name="Monday">星期一</string>
+    <string name="Tuesday">星期二</string>
+    <string name="Wednesday">星期三</string>
+    <string name="Thursday">星期四</string>
+    <string name="Friday">星期五</string>
+    <string name="Saturday">星期六</string>
+    <string name="Sunday_short">星期日</string>
+    <string name="Monday_short">星期一</string>
+    <string name="Tuesday_short">星期二</string>
+    <string name="Wednesday_short">星期三</string>
+    <string name="Thursday_short">星期四</string>
+    <string name="Friday_short">星期五</string>
+    <string name="Saturday_short">星期六</string>
+    <string name="January">1月</string>
+    <string name="February">2月</string>
+    <string name="March">3月</string>
+    <string name="April">4月</string>
+    <string name="May">5月</string>
+    <string name="June">6月</string>
+    <string name="July">7月</string>
+    <string name="August">8月</string>
+    <string name="September">9月</string>
+    <string name="October">10月</string>
+    <string name="November">11月</string>
+    <string name="December">12月</string>
+</resources>

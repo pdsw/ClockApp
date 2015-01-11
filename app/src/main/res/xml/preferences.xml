@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:persistent="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Preview Changes">
+        <CheckBoxPreference android:title="Open the curtains!" android:key="instant" android:summary="View your desktop and see the changes applied to your clock instantly!" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Overall Settings">
+        <ListPreference android:entries="@array/list_clickAction" android:title="Widget Click Action" android:key="clickShow" android:defaultValue="@string/prefDefault" android:dialogTitle="When widget is tapped," android:entryValues="@array/list_clickAction" />
+        <ListPreference android:entries="@array/list_bg_color" android:title="Background Color" android:key="color_bg" android:defaultValue="No Background" android:dialogTitle="Please pick" android:entryValues="@array/list_bg_color" />
+        <CheckBoxPreference android:title="Show AM/PM" android:key="ampm" android:summary="For those who can't tell day/night" android:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Time Settings">
+        <CheckBoxPreference android:title="12-hour clock" android:key="12hour" android:summary="Uncheck to use 24-hour clock" android:defaultValue="true" />
+        <ListPreference android:entries="@array/list_color" android:title="Text Color" android:key="color_time" android:dependency="custom_color_option_time" android:defaultValue="White" android:dialogTitle="Please pick" android:entryValues="@array/list_color" />
+        <CheckBoxPreference android:title="Use Custom Color" android:key="custom_color_option_time" android:summary="Life is colorful!" android:defaultValue="false" android:disableDependentsState="true" />
+        <com.miaoxiang.digitalClock.preference.ColorPreference android:title="Custom Color" android:key="custom_color_time" android:widgetLayout="@layout/color_preview" android:defaultValue="-132353" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Date Settings">
+        <CheckBoxPreference android:title="Hide Date" android:key="hide_date" android:defaultValue="false" android:disableDependentsState="true" />
+        <ListPreference android:entries="@array/list_date" android:title="Date Format" android:key="format_date" android:dependency="hide_date" android:defaultValue="EE, MM dd" android:dialogTitle="Please pick" android:entryValues="@array/list_date_value" />
+        <ListPreference android:entries="@array/list_color" android:title="Text Color" android:key="color_date" android:dependency="hide_date" android:defaultValue="White" android:dialogTitle="Please pick" android:entryValues="@array/list_color" />
+        <CheckBoxPreference android:title="Use Custom Color" android:key="custom_color_option_date" android:summary="Life is colorful!" android:dependency="hide_date" android:defaultValue="false" android:disableDependentsState="true" />
+        <com.miaoxiang.digitalClock.preference.ColorPreference android:title="Custom Color" android:key="custom_color_date" android:widgetLayout="@layout/color_preview" android:dependency="hide_date" android:defaultValue="-132353" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Stuff">
+        <com.miaoxiang.digitalClock.preference.InstructionsPreference android:title="How to use?" android:key="instructions" />
+        <com.miaoxiang.digitalClock.preference.ReadMePreference android:title="Read me" android:key="readme" android:summary="Please read, seriously, please read..." />
+        <com.miaoxiang.digitalClock.preference.ChangesPreference android:title="Change log" android:key="changes" />
+        <com.miaoxiang.digitalClock.preference.EmailPreference android:title="Report a bug" android:key="email" android:summary="Click here to report bugs by email" />
+        <com.miaoxiang.digitalClock.preference.RatingPreference android:title="Review this widget" android:key="rating" android:summary="Five star reviews help speed up updates!" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About">
+        <com.miaoxiang.digitalClock.preference.RecruitPreference android:title="Will code for food..." android:key="recruit" android:summary="I'm a new grad and on a job search. Please email me for details." />
+        <com.miaoxiang.digitalClock.preference.AboutPreference android:title="2011 © miaoxiang Labs" android:key="credit" android:summary="Help us survive by clicking  ⇓" />
+        <com.miaoxiang.digitalClock.preference.EmptyPreference android:enabled="false" android:key="ignore" />
+    </PreferenceCategory>
+</PreferenceScreen>

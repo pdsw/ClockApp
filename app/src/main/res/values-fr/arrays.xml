@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_clickAction">
+        <item>Ne rien faire</item>
+        <item>"M'amener ici"</item>
+        <item>Aller à alarme</item>
+        <item>Aller au calendrier</item>
+    </string-array>
+    <string-array name="list_opacity">
+        <item>0%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+        <item>60%</item>
+        <item>70%</item>
+        <item>80%</item>
+        <item>90%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="list_bg_color">
+        <item>Pas de fond</item>
+        <item>Noir</item>
+    </string-array>
+    <string-array name="list_color">
+        <item>Noir</item>
+        <item>Bleu</item>
+        <item>Marron</item>
+        <item>Gris</item>
+        <item>Vert</item>
+        <item>Orange</item>
+        <item>Rose clair</item>
+        <item>Rose fonc\ufffd</item>
+        <item>Violet</item>
+        <item>Rouge</item>
+        <item>Blanc</item>
+        <item>Jaune</item>
+    </string-array>
+    <string-array name="list_clock_size">
+        <item>1 x 4</item>
+        <item>1 x 2</item>
+    </string-array>
+    <string-array name="list_date">
+        <item>Mardi, Mai 19</item>
+        <item>Mardi, 19 Mai</item>
+        <item>05-19-2009</item>
+        <item>05/19/2009</item>
+        <item>19-05-2009</item>
+        <item>19/05/2009</item>
+        <item>2009-05-19</item>
+    </string-array>
+    <string-array name="list_date_value">
+        <item>EE, MM dd</item>
+        <item>EE, dd MM</item>
+        <item>MM-dd-yyyy</item>
+        <item>MM/dd/yyyy</item>
+        <item>dd-MM-yyyy</item>
+        <item>dd/MM/yyyy</item>
+        <item>yyyy-MM-dd</item>
+    </string-array>
+</resources>

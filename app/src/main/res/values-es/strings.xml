@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reloj Digital Widget</string>
+    <string name="prefDefault">Bring me here</string>
+    <string name="rules">"1. Manten presionado en la pantalla de inicio
+
+2. Clic en \"Widgets\"
+
+3. Clic en \"Reloj Digital\""</string>
+    <string name="app_name_large">Reloj Digital (1 x 4)</string>
+    <string name="app_name_small">Reloj Digital (1 x 2)</string>
+    <string name="Sunday">Domingo</string>
+    <string name="Monday">Lunes</string>
+    <string name="Tuesday">Martes</string>
+    <string name="Wednesday">Miércoles</string>
+    <string name="Thursday">Jueves</string>
+    <string name="Friday">Viernes</string>
+    <string name="Saturday">Sábado</string>
+    <string name="Sunday_short">Dom</string>
+    <string name="Monday_short">Lun</string>
+    <string name="Tuesday_short">Mar</string>
+    <string name="Wednesday_short">Mié</string>
+    <string name="Thursday_short">Jue</string>
+    <string name="Friday_short">Vie</string>
+    <string name="Saturday_short">Sáb</string>
+    <string name="January">Enero</string>
+    <string name="February">Febrero</string>
+    <string name="March">Marzo</string>
+    <string name="April">Abril</string>
+    <string name="May">Mayo</string>
+    <string name="June">Junio</string>
+    <string name="July">Julio</string>
+    <string name="August">Agosto</string>
+    <string name="September">Septiembre</string>
+    <string name="October">Octubre</string>
+    <string name="November">Noviembre</string>
+    <string name="December">Diciembre</string>
+</resources>

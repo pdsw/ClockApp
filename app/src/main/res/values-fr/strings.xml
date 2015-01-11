@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">"M'amener ici"</string>
+    <string name="rules">"1. Clic long vers accueil
+
+2. Choix \"Widgets\"
+
+3. Choix \"Digital Clock Widget\""</string>
+    <string name="app_name_large">Digital Clock (1 x 4)</string>
+    <string name="app_name_small">Digital Clock (1 x 2)</string>
+    <string name="Sunday">Dimanche</string>
+    <string name="Monday">Lundi</string>
+    <string name="Tuesday">Mardi</string>
+    <string name="Wednesday">Mercredi</string>
+    <string name="Thursday">Jeudi</string>
+    <string name="Friday">Vendredi</string>
+    <string name="Saturday">Samedi</string>
+    <string name="Sunday_short">Dim</string>
+    <string name="Monday_short">Lun</string>
+    <string name="Tuesday_short">Mar</string>
+    <string name="Wednesday_short">Mer</string>
+    <string name="Thursday_short">Jeu</string>
+    <string name="Friday_short">Ven</string>
+    <string name="Saturday_short">Sam</string>
+    <string name="January">Janvier</string>
+    <string name="February">Février</string>
+    <string name="March">Mars</string>
+    <string name="April">Avril</string>
+    <string name="May">Mai</string>
+    <string name="June">Juin</string>
+    <string name="July">Juillet</string>
+    <string name="August">Août</string>
+    <string name="September">Septembre</string>
+    <string name="October">Octobre</string>
+    <string name="November">Novembre</string>
+    <string name="December">Décembre</string>
+    <string name="ChangeTitle">Lisez-moi</string>
+    <string name="ChangeSummary">"-MERCI DE RELANCER LE WIDGET APRES MISE-A-JOUR DEPUIS LE MARKET
+
+- MERCI D'EXCLURE LE WIDGET DES TUEURS DE TACHES
+
+Merci d'avoir choisi nos produits!"</string>
+    <string name="FeedbackTitle">Contacter le developpeur</string>
+    <string name="FeedbackSummary">"Vous devez relancer l'horloge après mise-à-jour.
+
+Si l'horloge se bloque, faite la glisser vers la corbeille puis la remettre. 
+
+Merci d'avoir choisi nos produits!"</string>
+</resources>

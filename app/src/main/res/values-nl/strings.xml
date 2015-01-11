@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Clock Widget</string>
+    <string name="prefDefault">Naar hier brengen</string>
+    <string name="rules">"1. Druk lang op de startpagina
+
+2. Selecteer \"Widgets\"
+
+3. Selecteer \"Digital Clock Widget\""</string>
+    <string name="app_name_large">Digitale Klok (1 x 4)</string>
+    <string name="app_name_small">Digitale Klok (1 x 2)</string>
+    <string name="Sunday">Zondag</string>
+    <string name="Monday">Maandag</string>
+    <string name="Tuesday">Dinsdag</string>
+    <string name="Wednesday">Woensdag</string>
+    <string name="Thursday">Donderdag</string>
+    <string name="Friday">Vrijdag</string>
+    <string name="Saturday">Zaterdag</string>
+    <string name="Sunday_short">Zon</string>
+    <string name="Monday_short">Maa</string>
+    <string name="Tuesday_short">Din</string>
+    <string name="Wednesday_short">Woe</string>
+    <string name="Thursday_short">Don</string>
+    <string name="Friday_short">Vri</string>
+    <string name="Saturday_short">Zat</string>
+    <string name="January">Januari</string>
+    <string name="February">Februari</string>
+    <string name="March">Maart</string>
+    <string name="April">April</string>
+    <string name="May">Mei</string>
+    <string name="June">Juni</string>
+    <string name="July">Juli</string>
+    <string name="August">Augustus</string>
+    <string name="September">September</string>
+    <string name="October">Oktober</string>
+    <string name="November">November</string>
+    <string name="December">December</string>
+    <string name="ChangeTitle">Lees mij</string>
+    <string name="ChangeSummary">"- GELIEVE DE WIDGET TE HERSTARTEN NA BIJWERKEN VIA MARKET
+
+- GELIEVE DE WIDGET IN EEN TASK KILLER UIT TE SLUITEN
+
+Hartelijk dank voor het kiezen van ons product!"</string>
+    <string name="FeedbackTitle">Feedback ontwikkelaar</string>
+    <string name="FeedbackSummary">"Je moet de klok herstarten na de update.
+
+Als de klok vast loopt, sleep ze naar de prullenbak en herstart ze. 
+
+Hartelijk dank voor het gebruiken van onze producten!"</string>
+</resources>

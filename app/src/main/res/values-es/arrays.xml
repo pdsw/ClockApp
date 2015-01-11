@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_clickAction">
+        <item>Do Nothing</item>
+        <item>Bring me here</item>
+        <item>Bring me to alarm</item>
+        <item>Bring me to calendar</item>
+    </string-array>
+    <string-array name="list_bg_color">
+        <item>No Background</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="list_color">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="list_date">
+        <item>Martes, Mayo 19</item>
+        <item>Martes, 19 Mayo</item>
+        <item>05-19-2009</item>
+        <item>05/19/2009</item>
+        <item>19-05-2009</item>
+        <item>19/05/2009</item>
+    </string-array>
+</resources>
